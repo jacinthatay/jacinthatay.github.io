@@ -1,0 +1,29 @@
+img{
+  width:150px;
+  position: center;
+  border: solid #FFFFFF 4px;
+
+
+}
+header{
+  background: url('./hongkongbg.jpg');
+}
+
+ul{
+  padding: 5px
+}
+
+li{
+  display: inline-block;
+  padding: 10px 10px;
+  color: #FFFFFF;
+  position: relative;
+  left: 810px;
+  font-size: 15px
+
+}
+
+.jumbotron{
+  color: #ffffff
+
+}
